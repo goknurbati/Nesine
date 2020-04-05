@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7359b5c8-9c88-47f9-814c-679cc76b604f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwrsWnnpXlr20kKjmBCoY0Asgr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager" selected="JUnit.KupondasPageRunner">
+    <configuration name="Feature: Kupondas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Kupondas.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Nesine" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Kupondas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful Login with Valid Credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Nesine" />
+      <option name="NAME_FILTER" value="^Successful Login with Valid Credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful Login with Valid Credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful Login with Valid Credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KupondasPageRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nesine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.KupondasPageRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nesine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.LoginPageRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WelcomePageRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nesine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.WelcomePageRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Successful Login with Valid Credentials" />
+      <item itemvalue="Cucumber java.Feature: Kupondas" />
+      <item itemvalue="JUnit.KupondasPageRunner" />
+      <item itemvalue="JUnit.WelcomePageRunner" />
+      <item itemvalue="JUnit.LoginPageRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KupondasPageRunner" />
+        <item itemvalue="JUnit.LoginPageRunner" />
+        <item itemvalue="JUnit.WelcomePageRunner" />
+        <item itemvalue="Cucumber java.Feature: Kupondas" />
+        <item itemvalue="Cucumber java.Scenario: Successful Login with Valid Credentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7359b5c8-9c88-47f9-814c-679cc76b604f" name="Default Changelist" comment="" />
+      <created>1585761204856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585761204856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1226" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585784590274">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1226" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1585784590274" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1585937152114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585937152114" />
+    <state x="-1072" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585946037510">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1072" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1585946037510" />
+    <state x="22" y="43" width="1176" height="584" key="DiffContextDialog" timestamp="1586003730944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="43" width="1176" height="584" key="DiffContextDialog/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586003730944" />
+    <state width="1316" height="214" key="GridCell.Tab.0.bottom" timestamp="1586038366902">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366902" />
+    <state width="1322" height="342" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.768@0.0.1366.728" timestamp="1586012736234" />
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585937234114" />
+    <state width="1316" height="214" key="GridCell.Tab.0.center" timestamp="1586038366902">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366902" />
+    <state width="1322" height="342" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.768@0.0.1366.728" timestamp="1586012736234" />
+    <state width="1322" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585937234114" />
+    <state width="1316" height="214" key="GridCell.Tab.0.left" timestamp="1586038366902">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366902" />
+    <state width="1322" height="342" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.768@0.0.1366.728" timestamp="1586012736234" />
+    <state width="1322" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585937234114" />
+    <state width="1316" height="214" key="GridCell.Tab.0.right" timestamp="1586038366902">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366902" />
+    <state width="1322" height="342" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.768@0.0.1366.728" timestamp="1586012736234" />
+    <state width="1322" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585937234114" />
+    <state width="1316" height="214" key="GridCell.Tab.1.bottom" timestamp="1586038366903">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366903" />
+    <state width="1316" height="214" key="GridCell.Tab.1.center" timestamp="1586038366903">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.1.center/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366903" />
+    <state width="1316" height="214" key="GridCell.Tab.1.left" timestamp="1586038366903">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.1.left/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366903" />
+    <state width="1316" height="214" key="GridCell.Tab.1.right" timestamp="1586038366903">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state width="1316" height="214" key="GridCell.Tab.1.right/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586038366903" />
+    <state x="-1150" y="38" key="Maven.ArtifactSearchDialog" timestamp="1585783460033">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1150" y="38" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1585783460033" />
+    <state x="-1252" y="113" width="1176" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586003730944">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1252" y="113" width="1176" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1586003730944" />
+    <state x="413" y="118" key="extract.method.dialog" timestamp="1585937376630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585937376630" />
+    <state x="345" y="84" width="675" height="643" key="search.everywhere.popup" timestamp="1585937116371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1017" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1360.0.1360.768@-1360.0.1360.768" timestamp="1585764177332" />
+    <state x="345" y="84" width="675" height="643" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585937116371" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Nesine$LoginPageRunner.ic" NAME="LoginPageRunner Coverage Results" MODIFIED="1585918904564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MyRunner.*</FILTER>
+    </SUITE>
+  </component>
+</project>
